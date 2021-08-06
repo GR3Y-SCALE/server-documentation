@@ -1,2 +1,1 @@
-# tomcat-documentation
-documentation for server tomcat
+## documentation for server related projects
